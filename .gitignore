@@ -1,0 +1,6 @@
+*
+!*/
+!/MyGame/Classes/**
+!/MyGame/Resources/**
+!/README.md
+!/.gitignore
