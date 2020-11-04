@@ -2,5 +2,6 @@
 !*/
 !/MyGame/Classes/**
 !/MyGame/Resources/**
+!/MyGame/CMakeLists.txt
 !/README.md
 !/.gitignore
